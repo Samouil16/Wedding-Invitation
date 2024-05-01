@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd7c00d8.css",
-    "main.js": "/static/js/main.9d003e76.js",
-    "static/js/453.40063271.chunk.js": "/static/js/453.40063271.chunk.js",
-    "index.html": "/index.html",
-    "main.bd7c00d8.css.map": "/static/css/main.bd7c00d8.css.map",
-    "main.9d003e76.js.map": "/static/js/main.9d003e76.js.map",
-    "453.40063271.chunk.js.map": "/static/js/453.40063271.chunk.js.map"
+    "main.css": "/Samouil16/Wedding-Invitation/static/css/main.bd7c00d8.css",
+    "main.js": "/Samouil16/Wedding-Invitation/static/js/main.9c6a7adc.js",
+    "static/js/453.40063271.chunk.js": "/Samouil16/Wedding-Invitation/static/js/453.40063271.chunk.js",
+    "index.html": "/Samouil16/Wedding-Invitation/index.html",
+    "main.bd7c00d8.css.map": "/Samouil16/Wedding-Invitation/static/css/main.bd7c00d8.css.map",
+    "main.9c6a7adc.js.map": "/Samouil16/Wedding-Invitation/static/js/main.9c6a7adc.js.map",
+    "453.40063271.chunk.js.map": "/Samouil16/Wedding-Invitation/static/js/453.40063271.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd7c00d8.css",
-    "static/js/main.9d003e76.js"
+    "static/js/main.9c6a7adc.js"
   ]
 }
